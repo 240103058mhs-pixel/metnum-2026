@@ -1,5 +1,5 @@
 
-# Praktikum Metode Numerik
+# coba Praktikum Metode Numerik
 # Interpolasi Lagrange
 
 x <- c(1, 2, 4, 5)

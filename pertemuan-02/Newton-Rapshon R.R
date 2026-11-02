@@ -28,3 +28,4 @@ newton <- function(x0, tol = 1e-6, max_iter = 100) {
 
 hasil <- newton(1)
 print(hasil)
+
